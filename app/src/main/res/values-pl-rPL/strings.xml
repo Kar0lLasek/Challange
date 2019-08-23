@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Wyzwanie</string>
+    <string name="no_nickname">(Brak nicku)</string>
+    <string name="no_www_page">(Brak strony www)</string>
+    <string name="no_city">(Brak miasta)</string>
+    <string name="no_address">(Brak adresu)</string>
+    <string name="red">Czerwony</string>
+    <string name="green">Zielony</string>
+    <string name="blue">Niebieski</string>
+</resources>
